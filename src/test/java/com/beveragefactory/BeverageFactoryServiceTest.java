@@ -11,6 +11,7 @@ import com.beveragefactory.service.BeverageFactoryService;
 
 import junit.framework.Assert;
 
+@SuppressWarnings("deprecation")
 @ExtendWith(MockitoExtension.class)
 @RunWith(JUnitPlatform.class)
 public class BeverageFactoryServiceTest {
